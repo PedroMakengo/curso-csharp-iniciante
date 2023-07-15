@@ -1,0 +1,15 @@
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\bin\Debug\net7.0\MeuPrograma.exe
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\bin\Debug\net7.0\MeuPrograma.deps.json
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\bin\Debug\net7.0\MeuPrograma.runtimeconfig.json
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\bin\Debug\net7.0\MeuPrograma.dll
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\bin\Debug\net7.0\MeuPrograma.pdb
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.csproj.AssemblyReference.cache
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.dll
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\refint\MeuPrograma.dll
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.pdb
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\IS4-S 2\Documents\C#\demo02\MeuPrograma\obj\Debug\net7.0\ref\MeuPrograma.dll
