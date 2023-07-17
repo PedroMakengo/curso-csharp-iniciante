@@ -1,0 +1,12 @@
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\bin\Debug\net7.0\SaoBento.Infra.deps.json
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\bin\Debug\net7.0\SaoBento.Infra.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\bin\Debug\net7.0\SaoBento.Infra.pdb
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\SaoBento.Infra.csproj.AssemblyReference.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\SaoBento.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\SaoBento.Infra.AssemblyInfoInputs.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\SaoBento.Infra.AssemblyInfo.cs
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\SaoBento.Infra.csproj.CoreCompileInputs.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\SaoBento.Infra.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\refint\SaoBento.Infra.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\SaoBento.Infra.pdb
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo13\SaoBento.Infra\obj\Debug\net7.0\ref\SaoBento.Infra.dll
