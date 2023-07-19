@@ -1,0 +1,15 @@
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\bin\Debug\net7.0\demo16.exe
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\bin\Debug\net7.0\demo16.deps.json
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\bin\Debug\net7.0\demo16.runtimeconfig.json
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\bin\Debug\net7.0\demo16.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\bin\Debug\net7.0\demo16.pdb
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.csproj.AssemblyReference.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.AssemblyInfoInputs.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.AssemblyInfo.cs
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.csproj.CoreCompileInputs.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\refint\demo16.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.pdb
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\demo16.genruntimeconfig.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo16\obj\Debug\net7.0\ref\demo16.dll

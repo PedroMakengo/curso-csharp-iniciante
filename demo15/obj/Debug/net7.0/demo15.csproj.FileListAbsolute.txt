@@ -1,0 +1,15 @@
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.csproj.AssemblyReference.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.AssemblyInfoInputs.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.AssemblyInfo.cs
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.csproj.CoreCompileInputs.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\bin\Debug\net7.0\demo15.exe
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\bin\Debug\net7.0\demo15.deps.json
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\bin\Debug\net7.0\demo15.runtimeconfig.json
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\bin\Debug\net7.0\demo15.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\bin\Debug\net7.0\demo15.pdb
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\refint\demo15.dll
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.pdb
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\demo15.genruntimeconfig.cache
+C:\Users\IS4-S 2\Documents\curso-csharp-iniciante\demo15\obj\Debug\net7.0\ref\demo15.dll
